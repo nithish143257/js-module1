@@ -1,0 +1,38 @@
+{
+    "beach": [
+        {
+            "name": "Beach Paradise",
+            "imageUrl": "beach1.jpg",
+            "description": "Enjoy the pristine sands and crystal-clear waters at Beach Paradise."
+        },
+        {
+            "name": "Tropical Cove",
+            "imageUrl": "cove.jpg",
+            "description": "Explore the tropical beauty and relax under the palm trees at Tropical Cove."
+        }
+    ],
+    "temple": [
+        {
+            "name": "Ancient Temple",
+            "imageUrl": "temple1.jpg",
+            "description": "Discover the rich history and cultural significance of the Ancient Temple."
+        },
+        {
+            "name": "Mountain Shrine",
+            "imageUrl": "temple2.jpg",
+            "description": "Visit the tranquil Mountain Shrine and experience spiritual serenity."
+        }
+    ],
+    "country": [
+        {
+            "name": "Exotic Country",
+            "imageUrl": "country1.jpg",
+            "description": "Immerse yourself in the vibrant culture and scenic beauty of Exotic Country."
+        },
+        {
+            "name": "Historic Land",
+            "imageUrl": "country2.jpg",
+            "description": "Embark on a journey through time and explore the Historic Land's landmarks and heritage."
+        }
+    ]
+}
